@@ -1,0 +1,161 @@
+kroA: Greedy search (node and edge swaps):
+Initial solution length: 35069
+Average solution length: 34303.0
+Best solution length: 34303
+Worst solution length: 34303
+Average execution time: 0.5680 seconds
+Best execution time: 0.5680 seconds
+Worst execution time: 0.5680 seconds
+
+kroA: Greedy search (node and edge swaps) random:
+Initial solution length: 342736
+Average solution length: 45409.0
+Best solution length: 45409
+Worst solution length: 45409
+Average execution time: 15.8595 seconds
+Best execution time: 15.8595 seconds
+Worst execution time: 15.8595 seconds
+
+kroA: Greedy search (node swap between cycles):
+Initial solution length: 35069
+Average solution length: 34310.0
+Best solution length: 34310
+Worst solution length: 34310
+Average execution time: 1.1128 seconds
+Best execution time: 1.1128 seconds
+Worst execution time: 1.1128 seconds
+
+kroA: Greedy search (node swap between cycles) random:
+Initial solution length: 342736
+Average solution length: 38999.0
+Best solution length: 38999
+Worst solution length: 38999
+Average execution time: 27.2554 seconds
+Best execution time: 27.2554 seconds
+Worst execution time: 27.2554 seconds
+
+kroA: Steepest local search (node and edge swaps within cycle):
+Initial solution length: 35069
+Average solution length: 34303.0
+Best solution length: 34303
+Worst solution length: 34303
+Average execution time: 0.4830 seconds
+Best execution time: 0.4830 seconds
+Worst execution time: 0.4830 seconds
+
+kroA: Steepest local search (node and edge swaps within cycle) random:
+Initial solution length: 342736
+Average solution length: 43763.0
+Best solution length: 43763
+Worst solution length: 43763
+Average execution time: 8.8425 seconds
+Best execution time: 8.8425 seconds
+Worst execution time: 8.8425 seconds
+
+kroA: Steepest local search (node swaps between cycles):
+Initial solution length: 35069
+Average solution length: 34303.0
+Best solution length: 34303
+Worst solution length: 34303
+Average execution time: 0.8072 seconds
+Best execution time: 0.8072 seconds
+Worst execution time: 0.8072 seconds
+
+kroA: Steepest local search (node swaps between cycles) random:
+Initial solution length: 342736
+Average solution length: 36144.0
+Best solution length: 36144
+Worst solution length: 36144
+Average execution time: 15.7232 seconds
+Best execution time: 15.7232 seconds
+Worst execution time: 15.7232 seconds
+
+kroA: Random walk search:
+Initial solution length: 35069
+Average solution length: 35069.0
+Best solution length: 35069
+Worst solution length: 35069
+Average execution time: 0.4830 seconds
+Best execution time: 0.4830 seconds
+Worst execution time: 0.4830 seconds
+
+kroB: Greedy search (node and edge swaps):
+Initial solution length: 35246
+Average solution length: 34351.0
+Best solution length: 34351
+Worst solution length: 34351
+Average execution time: 0.7227 seconds
+Best execution time: 0.7227 seconds
+Worst execution time: 0.7227 seconds
+
+kroB: Greedy search (node and edge swaps) random:
+Initial solution length: 323589
+Average solution length: 47309.0
+Best solution length: 47309
+Worst solution length: 47309
+Average execution time: 14.1242 seconds
+Best execution time: 14.1242 seconds
+Worst execution time: 14.1242 seconds
+
+kroB: Greedy search (node swap between cycles):
+Initial solution length: 35246
+Average solution length: 34132.0
+Best solution length: 34132
+Worst solution length: 34132
+Average execution time: 1.2746 seconds
+Best execution time: 1.2746 seconds
+Worst execution time: 1.2746 seconds
+
+kroB: Greedy search (node swap between cycles) random:
+Initial solution length: 323589
+Average solution length: 39742.0
+Best solution length: 39742
+Worst solution length: 39742
+Average execution time: 26.8271 seconds
+Best execution time: 26.8271 seconds
+Worst execution time: 26.8271 seconds
+
+kroB: Steepest local search (node and edge swaps within cycle):
+Initial solution length: 35246
+Average solution length: 34351.0
+Best solution length: 34351
+Worst solution length: 34351
+Average execution time: 0.6127 seconds
+Best execution time: 0.6127 seconds
+Worst execution time: 0.6127 seconds
+
+kroB: Steepest local search (node and edge swaps within cycle) random:
+Initial solution length: 323589
+Average solution length: 48793.0
+Best solution length: 48793
+Worst solution length: 48793
+Average execution time: 9.5813 seconds
+Best execution time: 9.5813 seconds
+Worst execution time: 9.5813 seconds
+
+kroB: Steepest local search (node swaps between cycles):
+Initial solution length: 35246
+Average solution length: 34028.0
+Best solution length: 34028
+Worst solution length: 34028
+Average execution time: 1.2800 seconds
+Best execution time: 1.2800 seconds
+Worst execution time: 1.2800 seconds
+
+kroB: Steepest local search (node swaps between cycles) random:
+Initial solution length: 323589
+Average solution length: 38963.0
+Best solution length: 38963
+Worst solution length: 38963
+Average execution time: 14.9875 seconds
+Best execution time: 14.9875 seconds
+Worst execution time: 14.9875 seconds
+
+kroB: Random walk search:
+Initial solution length: 35246
+Average solution length: 35246.0
+Best solution length: 35246
+Worst solution length: 35246
+Average execution time: 0.6127 seconds
+Best execution time: 0.6127 seconds
+Worst execution time: 0.6127 seconds
