@@ -1,5 +1,7 @@
 # Intelligent Optimization Methods
 
+![Python](https://img.shields.io/badge/Python-lightblue?logo=python)
+
 This repository demostrates implementations of different algorithms in theme of intelligent optimization methods as Pyhton scripts. 
 
 ## How to run it?
