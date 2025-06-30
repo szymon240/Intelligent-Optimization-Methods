@@ -1,0 +1,66 @@
+ILS:
+    Na 1 min:
+        KroA: avg - min - max (172, 166, 177)
+        KroB: avg - min - max (185, 180, 189)
+
+LNS (NO LS):
+    Na 1 min:
+        KroA: avg - min - max (6664, 6397, 6808)
+              sol size = 39425
+        KroB: avg - min - max (6709, 6372, 6952)
+              sol size = 38189
+
+LNS (WITH LS):
+    Na 1 min:
+        KroA: avg - min - max (52, 46, 58)
+              sol size = 36023
+        KroB: avg - min - max (54, 53, 55)
+              sol size = 36034
+
+kroA: HAE (NO LS):
+Initial solution length: 333781
+Average solution length: 39433.666666666664
+Best solution length: 38512
+Worst solution length: 40178
+Average execution time: 60.0101 seconds
+Best execution time: 60.0059 seconds
+Worst execution time: 60.0157 seconds
+Average iterations: 3838.3333333333335
+Min iterations: 3733
+Max iterations: 3945
+
+kroB: HAE (NO LS):
+Initial solution length: 333878
+Average solution length: 39561.666666666664
+Best solution length: 39071
+Worst solution length: 39816
+Average execution time: 60.0058 seconds
+Best execution time: 60.0011 seconds
+Worst execution time: 60.0117 seconds
+Average iterations: 3845.0
+Min iterations: 3505
+Max iterations: 4099
+
+kroA: HAE (WITH LS):
+Initial solution length: 333781
+Average solution length: 35496.333333333336
+Best solution length: 34405
+Worst solution length: 36422
+Average execution time: 60.2584 seconds
+Best execution time: 60.0604 seconds
+Worst execution time: 60.5887 seconds
+Average iterations: 75.33333333333333
+Min iterations: 39
+Max iterations: 136
+
+kroB: HAE (WITH LS):
+Initial solution length: 333878
+Average solution length: 35669.666666666664
+Best solution length: 35473
+Worst solution length: 36022
+Average execution time: 60.3121 seconds
+Best execution time: 60.0571 seconds
+Worst execution time: 60.7300 seconds
+Average iterations: 113.66666666666667
+Min iterations: 61
+Max iterations: 148
